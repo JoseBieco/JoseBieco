@@ -3,7 +3,7 @@
 ##### 📝 My Bio
 - 🧑‍💻 José Eduardo Saroba Bieco
 - 🎂 20 years
-- 💼 I work as a fullstack web developer at <a style="cursor: pointer;" src="https://likkn.com/"> Likkn</a>
+- 💼 I work as a fullstack web developer at <a style="cursor: pointer;" href="https://likkn.com/"> Likkn</a>
 - 👨‍🎓 Computer Enginner at <a style="cursor: pointer;" href="https://facens.br">Facens</a>
 
 <div>
