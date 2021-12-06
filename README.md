@@ -58,6 +58,7 @@
         <br />
         <br />
     </kbd> 
+    <br />
     <kbd align="center">
         <kbd>Studying:</kbd> 
         <br />
