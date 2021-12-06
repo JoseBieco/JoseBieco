@@ -59,6 +59,7 @@
         <br />
     </kbd> 
     <br />
+    <br />
     <kbd align="center">
         <kbd>Studying:</kbd> 
         <br />
