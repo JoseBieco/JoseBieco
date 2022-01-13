@@ -10,9 +10,14 @@
 
 ##
 
+##### 🤖 My GitHub Activities
 
- 
-
+<div style="display: inline_block;" align="center">
+  <a target="_blank" href="https://github.com/JoseBieco">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoseBieco&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseBieco&layout=compact&langs_count=7&theme=gotham"/>
+ </a>
+</div>
   
 ##### 🧠 Skills Set 
  
