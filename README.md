@@ -4,8 +4,8 @@
 - 🧑‍💻 José Eduardo Saroba Bieco
 - 🎂 23 years
 - 👨‍🎓 Graduated in Computer Engineering from <a style="cursor: pointer;" target="_blank" href="https://facens.br">Facens</a>, 2023
-- Specialization in Artificial Intelligence at <a style="cursor: pointer;" target="_blank" href="https://www.utfpr.edu.br/campus/cornelioprocopio">UTFPR</a>UTFPR, 2025
-- Master's degree at <a style="cursor: pointer;" target="_blank" href="https://www.icmc.usp.br">ICMC - USP</a>, Optimization in inverse problems
+- Specialization in Artificial Intelligence at <a style="cursor: pointer;" target="_blank" href="https://www.utfpr.edu.br/campus/cornelioprocopio">UTFPR</a>, 2025
+- Master's degree at <a style="cursor: pointer;" target="_blank" href="https://www.icmc.usp.br">ICMC - USP</a>, Optimization in inverse problems, 2026
 <div>
 
 ##
