@@ -13,8 +13,8 @@
 ## 👨‍💻 Sobre Mim
 
 - 🎓 Graduado em **Engenharia de Computação** pela [Facens](https://facens.br) (2023).
-- 🧠 **Especialista** em **Inteligência Artificial** na [UTFPR](https://www.utfpr.edu.br/campus/cornelioprocopio) (2025).
-- 🔬 **Mestrando** em **Otimização em problemas inversos** no [ICMC - USP](https://www.icmc.usp.br) (2026).
+- 🧠 **Especialista** em **Inteligência Artificial** pela [UTFPR](https://www.utfpr.edu.br/campus/cornelioprocopio) (2025).
+- 🔬 **Mestrando** em **Otimização em Problemas Inversos** no [ICMC - USP](https://www.icmc.usp.br) (2026).
 - 🌱 Atualmente explorando o fascinante mundo de Machine Learning e Otimização.
 
 ## 🚀 Habilidades e Tecnologias
@@ -29,7 +29,7 @@
 
 Meu trabalho de mestrado envolve o desenvolvimento de uma ferramenta de apoio à decisão para o problema de atribuição de docentes em universidades.
 
-### assegn (Distribuidor de Carga)
+### Distribuidor de Carga
 O software principal, que utiliza **Busca Tabu** para gerar soluções automáticas e otimizadas. A ferramenta permite configurar parâmetros do algoritmo, editar manualmente as atribuições e visualizar estatísticas das soluções.
 
 <p>
