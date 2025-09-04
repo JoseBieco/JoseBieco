@@ -1,12 +1,3 @@
-<div align="right">
-  <a title="Switch to English">
-    <details>
-      <summary>🇧🇷</summary>
-      <a href="README-EN.md">Click here to see the English version</a>
-    </details>
-  </a>
-</div>
-
 # Olá, eu sou José Eduardo Saroba Bieco! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p align="center">
