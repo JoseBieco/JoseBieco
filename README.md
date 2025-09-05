@@ -94,7 +94,7 @@ Um projeto secundário que serve como entrada para a ferramenta principal. Ele p
 
 My master's research involves developing a decision support tool for the teacher assignment problem in universities.
 
-### assegn (Load Balancer)
+### Load Balancer
 The main software, which uses **Tabu Search** to generate automatic and optimized solutions. The tool allows configuring algorithm parameters, manually editing assignments, and viewing statistics of the generated solutions.
 
 <p>
